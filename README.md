@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Nikita
 - 🌱 I’m currently learning programming and QA
 - 👀 I’m interested in getting an internship
-- 📫 [My Telegram](t.me/nekitze)
+- 📫 [My Telegram](https://t.me/nekitze)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=flexben&theme=dark&background=000000)](https://git.io/streak-stats)
 
