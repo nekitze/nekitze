@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Nikita
-- 🌱 I’m currently learning programming and QA
+- 🌱 I’m currently learning programming and QA in School 21
 - 👀 I’m interested in getting an internship
 - 📫 [My Telegram](https://t.me/nekitze)
 
