@@ -3,7 +3,8 @@
 - 👀 I’m interested in getting an internship
 - 📫 [My Telegram](https://t.me/nekitze)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flexben&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![GIF Example](https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif)
+
 
 <!---
 flexben/flexben is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
