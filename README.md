@@ -1,6 +1,5 @@
 - 👋 Hi, my name is Nikita
 - 📚 I’m currently learning programming in School 21
-- 👀 I’m interested in getting an internship
 - 📫 [My Telegram](https://t.me/nekitze)
 
 ![GIF Example](https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif)
